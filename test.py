@@ -1,4 +1,1 @@
-print('hello')
-print('world')
-
-print('hello world')
+print("Huy is gay")
